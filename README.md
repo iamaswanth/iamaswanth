@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-# Hey.. 👋
 **Iam Aswanth** 
 
 - 🔭 I’m currently working on odoo 3rdparty development
