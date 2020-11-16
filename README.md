@@ -1,26 +1,16 @@
 ### Hi there 👋
 
 # Hey.. 👋
-**iamaswanth/iamaswanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Iam Aswanth** 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on odoo 3rdparty development
+- 🌱 I’m currently learning python django, nodejs, react
+- 👯 I’m looking to collaborate onpython projects
+- 📫 How to reach me: aswanth.babu@outlook.com
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-# R&D Development
-
-
 
 I'm a Sonftware Engineer from India interested in front-end web development, Python and maths. keep Optimized !!
 
-## Contact 💬
 
 If you speak English and want to contact me - feel free. 😉
 
