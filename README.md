@@ -2,7 +2,7 @@
 
 **Iam Aswanth** 
 
-- 🔭 I’m currently working on odoo 3rdparty development
+- 🔭 I’m currently working on odoo 3rdparty apps development
 - 🌱 I’m currently learning python django, nodejs, react
 - 👯 I’m looking to collaborate onpython projects
 - 📫 How to reach me: aswanth.babu@outlook.com
