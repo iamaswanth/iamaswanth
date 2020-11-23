@@ -21,4 +21,4 @@ If you speak English and want to contact me - feel free. 😉
 <a href="https://github.com/cy-research">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaswanth&theme=dark&hide=jupyter%20notebook" />
 </a>
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
