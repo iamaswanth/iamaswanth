@@ -8,7 +8,7 @@
 - 📫 How to reach me: aswanth.babu@outlook.com
 - 💬 Ask me about ...
 
-I'm a Sonftware Engineer from India interested in front-end web development, Python and maths. keep Optimized !!
+I'm a Software Engineer from India interested in front-end web development, Python and maths. keep Optimized !!
 
 
 If you speak English and want to contact me - feel free. 😉
