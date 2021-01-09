@@ -18,7 +18,5 @@ If you speak English and want to contact me - feel free. 😉
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamaswanth&show_icons=true&count_private=true&theme=default" alt="Aswanth's github stats" />
 </a>
 
-<h1>Resume</h1>
-    <iframe src="/Aswanth/AswanthBabu.pdf" width="100%" height="500px"/>
 
 
