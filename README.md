@@ -23,3 +23,5 @@ If you speak English and want to contact me - feel free. 😉
 </a>
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=boxabhi&custom_title=iamaswanth&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="Aswanth's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaswanth&layout=compact&theme=default" />
